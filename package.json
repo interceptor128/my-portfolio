@@ -20,7 +20,7 @@
     "set-value": "^3.0.2",
     "serialize-javascript": "^3.1.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.1.6"
+    "vue-router": "^3.3.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
