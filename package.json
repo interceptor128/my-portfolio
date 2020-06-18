@@ -11,7 +11,7 @@
     "acorn": "^7.2.0",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.15.0",
-    "core-js": "^2.6.11",
+    "core-js": "^3.6.5",
     "eslint-utils": "^2.0.0",
     "lodash": "^4.17.15",
     "lodash.defaultsdeep": "^4.6.1",
