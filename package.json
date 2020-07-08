@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
     "eslint-utils": "^2.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.defaultsdeep": "^4.6.1",
     "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
