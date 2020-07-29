@@ -12,7 +12,7 @@
     "bootstrap": "^4.5.0",
     "acorn": "^7.3.1",
     "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.15.0",
+    "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
     "eslint-utils": "^2.1.0",
     "lodash": "^4.17.19",
