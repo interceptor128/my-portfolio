@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "acorn": "^7.4.0",
+    "acorn": "^8.0.1",
     "bootstrap": "^4.5.2",
     "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
@@ -19,13 +19,13 @@
     "minimist": "^1.2.5",
     "mixin-deep": "^2.0.1",
     "set-value": "^3.0.2",
-    "serialize-javascript": "^4.0.0",
+    "serialize-javascript": "^5.0.1",
     "vue": "^2.6.12",
     "vue-router": "^3.4.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.6",
-    "@vue/cli-plugin-eslint": "^4.5.4",
+    "@vue/cli-plugin-eslint": "^4.5.6",
     "@vue/cli-service": "^4.5.6",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
