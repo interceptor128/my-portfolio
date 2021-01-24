@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "acorn": "^8.0.4",
-    "bootstrap": "^4.5.3",
-    "core-js": "^3.8.2",
+    "bootstrap": "^4.6.0",
+    "core-js": "^3.8.3",
     "bootstrap-vue": "^2.21.2",
     "eslint-utils": "^2.1.0",
     "lodash": "^4.17.20",
@@ -28,7 +28,7 @@
     "@vue/cli-service": "^4.5.10",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
-    "eslint-plugin-vue": "^7.4.1",
+    "eslint-plugin-vue": "^7.5.0",
     "node-sass": "^5.0.0",
     "sass-loader": "^10.1.1",
     "vue-template-compiler": "^2.6.12"
